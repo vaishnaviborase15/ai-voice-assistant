@@ -1,4 +1,4 @@
-# 🎙️ Mini Voice Assistant
+# 🎙️ AI Voice Assistant
 
 A complete Python voice assistant with speech recognition, text-to-speech, desktop automation, notes management, and a sleek dark-mode Streamlit GUI.
 
@@ -38,7 +38,7 @@ voice_assistant/
 ### Step 1 — Clone or download the project
 ```bash
 # if using git
-git clone https://github.com/your-username/mini-voice-assistant.git
+git clone https://github.com/vaishnaviborase15/ai-voice-assistant.git
 cd mini-voice-assistant
 
 # or just unzip the folder and open a terminal inside it
